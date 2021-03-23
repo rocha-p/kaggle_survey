@@ -57,3 +57,5 @@ The conclutions of the analysis are:
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 You can find the Licensing for the data and other descriptive information in Kaggle.
 The link to the Data Set: [2017 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/kaggle/kaggle-survey-2017)
+
+You can check my blog about this project in this [Medium Link](https://rochapedroignacio.medium.com/these-advices-from-kaggle-users-will-make-your-career-easier-e347858a394d)
