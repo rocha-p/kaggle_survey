@@ -28,8 +28,8 @@ In this project I analyze [2017 Kaggle Machine Learning & Data Science Survey](h
 * Another insights in job satisfaction
 * What platforms people use to learn?
 * How much time people spend studying Data Science?
-* Which languages people recommend to learn?
-* What skills people are more important to people?
+* What languages people recommend to learn?
+* What skills do users think are the most necessary for a career in Data Science?
 
 ## File Descriptions <a name="files"></a>
 Repository structure:
@@ -52,7 +52,7 @@ The conclutions of the analysis are:
 * Kaggle and online courses are the most used options to learn by Kaggle users.
 * Coursera and Udacity are the most used platforms to enroll online courses
 * Python, followed by R and SQL are the recommended programming languages by Kaggle users
-* Python, statistics and visualizations are the Top 3 skills consider more necessary by Kaggle Users
+* Python, statistics and visualizations are the Top 3 skills consider consider most necessaries.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 You can find the Licensing for the data and other descriptive information in Kaggle.
